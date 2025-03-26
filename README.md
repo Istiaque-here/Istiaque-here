@@ -2,12 +2,9 @@
 - 👀 I’m interested in learning new things.
 - 📫 How to reach me emistiaque@gmail.com
 
-# 👋 Hey there! I'm MD. Istiaque Khalique  
-**AI/ML Researcher | Data Analyst | Future Grad Student**  
+# 👋 Hey there! I'm MD. Istiaque Khalique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/md-istiaque-khalique)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:istiaquekhalique99@gmail.com)  
+
 
 ---
 
