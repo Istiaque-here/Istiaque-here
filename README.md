@@ -1,64 +1,26 @@
-- 👋 Hi, I’m @Istiaque-here
-- 👀 I’m interested in learning new things.
-- 📫 How to reach me emistiaque@gmail.com
-
-# 👋 Hey there! I'm MD. Istiaque Khalique
-
-
-
+# 👋 Hey there! I'm [Istiaque](https://github.com/Istiaque-here)
 ---
-
-### 🚀 About Me  
-**Profile views** | **127**  
-
-I’m a **Computer Science graduate** with a passion for solving real-world problems using AI/ML and data-driven approaches. Currently preparing for my **MS in Computer Science (Fall 2025)** to deepen my expertise in machine learning and healthcare applications.  
-
-🔭 **Current Focus**:  
-- Heatstroke prediction models using WBGT index and Random Forest.  
-- Fish classification with **Segment Anything Model (SAM)**.  
-
-💡 **Skills**: Python, SQL, Machine Learning, Data Analysis, Flutter.  
-
+### About Me 
+- I’m a Computer Science graduate with a passion for solving real-world problems using AI/ML and data-driven approaches.
+- Currently I'm learning Flask API development.
+- My interest lies in the application of AI/ML in automation and healthcare.
+- I like to research about various things in my free time.
 ---
-
-### 🛠️ Working With  
-- **Languages**: Python, C, SQL  
-- **ML Tools**: Pandas, Scikit-learn, OpenCV  
-- **Frameworks**: Flutter, TensorFlow  
-- **Other**: Git, Selenium, BeautifulSoup  
-
+### Technical Skills  
+- **Programming Languages**: Python, C, SQL  
+- **Databases**: MySQL, PostgreSQL  
+- **Machine Learning & Data Analysis**: Pandas, NumPy, Matplotlib, Scikit-learn 
+- **Web Scraping**: BeautifulSoup, Selenium, Scrapy  
+- **Tools**:    
+  - Anaconda (IDE)
+  - Visual Studio Code (Code Editor)
+  - Git (Version Control)  
+  - Postman (API Testing)  
+  - LaTeX (Documentation)
 ---
-
-### 💻 Projects  
-#### [HeatMeter](https://github.com/yourusername/heatmeter)  
-`Flutter | Python | OpenWeatherMap API`  
-A mobile app predicting heatstroke risk using ML and real-time weather data.  
-
-#### [MedBuddy](https://github.com/yourusername/medbuddy)  
-`Java | Firebase`  
-A healthcare app prioritizing medical services with real-time tracking.  
-
----
-
-### 📚 Academic Pursuits  
-- **Bachelor’s Thesis**: *Heatstroke Prediction in Bangladesh: WBGT Index-Based ML Model*  
-- **Research Assistant**: InteX Research Lab (Ongoing projects on SAM-based image segmentation).  
-- **Certifications**: CyberSafe, LU Data Communications Bootcamp.  
-
----
-
-### 🎯 Goals  
-- Secure an **MS in CS** with a focus on **AI/ML** (Fall 2025).  
-- Contribute to open-source healthcare/climate-tech projects.  
-- Intern at a tech firm to bridge research and industry.  
-
----
-
-### 📫 Let’s Connect!  
-- **Resume**: [Download Here](https://github.com/.../Istiaque_CV.pdf)  
-- **Email**: istiaquekhalique99@gmail.com  
-- **Fun Fact**: I enjoy analyzing weather patterns and exploring AI ethics!  
-
+### Let’s Connect!  
+- **CV**: [Download Here](https://drive.google.com/file/d/1mo9bOwzJpuJ_jgZ_CkdZNaAvLDQHlNAm/view?usp=sharing)
+- **Email**: istiaquekhalique99@gmail.com   
 
 <!---
 Istiaque-here/Istiaque-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
