@@ -13,9 +13,6 @@
 - **Web Scraping**: BeautifulSoup, Selenium, Scrapy  
 - **Tools**: Anaconda, Visual Studio Code, Git, Postman, LaTeX
 ---
-### Let’s Connect!  
-- **CV**: [Download Here](https://drive.google.com/file/d/1mo9bOwzJpuJ_jgZ_CkdZNaAvLDQHlNAm/view?usp=sharing)
-- **Email**: istiaquekhalique99@gmail.com   
 
 <!---
 Istiaque-here/Istiaque-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
