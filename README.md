@@ -11,12 +11,7 @@
 - **Databases**: MySQL, PostgreSQL  
 - **Machine Learning & Data Analysis**: Pandas, NumPy, Matplotlib, Scikit-learn 
 - **Web Scraping**: BeautifulSoup, Selenium, Scrapy  
-- **Tools**:    
-  - Anaconda (IDE)
-  - Visual Studio Code (Code Editor)
-  - Git (Version Control)  
-  - Postman (API Testing)  
-  - LaTeX (Documentation)
+- **Tools**: Anaconda, Visual Studio Code, Git, Postman, LaTeX
 ---
 ### Let’s Connect!  
 - **CV**: [Download Here](https://drive.google.com/file/d/1mo9bOwzJpuJ_jgZ_CkdZNaAvLDQHlNAm/view?usp=sharing)
