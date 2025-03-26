@@ -9,7 +9,7 @@
 ### Technical Skills  
 - **Programming Languages**: Python, C, SQL  
 - **Databases**: MySQL, PostgreSQL  
-- **Machine Learning & Data Analysis**: Pandas, NumPy, Matplotlib, Scikit-learn 
+- **Machine Learning & Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn 
 - **Web Scraping**: BeautifulSoup, Selenium, Scrapy  
 - **Tools**: Anaconda, Visual Studio Code, Git, Postman, LaTeX
 ---
